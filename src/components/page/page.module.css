@@ -1,0 +1,13 @@
+.page {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid black;
+  height: 85vh;
+  margin-top: 20px;
+}
+
+.page__content {
+  font-size: 20px;
+  font-weight: 600;
+}

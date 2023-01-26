@@ -1,0 +1,16 @@
+{
+  "dropdownData": [
+    {
+      "lable": "Home",
+      "value": "/"
+    },
+    {
+      "lable": "Contact",
+      "value": "/contact"
+    },
+    {
+      "lable": "About",
+      "value": "/about"
+    }
+  ]
+}
